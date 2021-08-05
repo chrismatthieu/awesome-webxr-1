@@ -61,6 +61,7 @@ Feel free to submit PRs with more links!
 - Poly from Google: https://poly.google.com/
 - Hubs by Mozilla: https://hubs.mozilla.com/#/
 - HoloDevelopers : https://join.slack.com/t/holodevelopers/shared_invite/zt-5d6fsq82-m3vHQGYBAvJfjtAR6_wBSA
+- Metaverses: https://metaverses.io/
 
 ## Audio visualizations
 
